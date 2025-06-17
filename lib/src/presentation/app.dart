@@ -1,6 +1,6 @@
 import 'package:anime_flix/core/constants/app_text.dart';
 import 'package:anime_flix/core/constants/app_theme.dart';
-import 'package:anime_flix/core/routes/routes.dart';
+import 'package:anime_flix/src/presentation/routes/routes.dart';
 import 'package:flutter/material.dart';
 
 class AnimeApp extends StatelessWidget {
